@@ -1,5 +1,5 @@
 # Dracula for [Wolfram Notebooks](https://www.wolfram.com/notebooks/)
-> a dark theme for [Wolfram Notebooks](https://www.wolfram.com/notebooks/)
+> A dark theme for [Wolfram Notebooks](https://www.wolfram.com/notebooks/)
 
 ![Screenshot](./screenshot.png)
 
