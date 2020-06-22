@@ -3,14 +3,14 @@
 #### Get the files
 
 If you are a git user, you can get the theme and keep up to date by cloning the repo:
-    $ git clone https://github.com/dracula/wolfram-notebooks.git
+        $ git clone https://github.com/dracula/wolfram-notebooks.git
 Otherwise, you will need to download the files and unzip them for each release.
 
 #### Install the stylesheet
 
 1. The stylesheet is titled "Dracula.nb". Move the stylesheet to folder where your Wolfram Desktop application is installed, and into SystemFiles. Run this code to open the folder:
 
-     SystemOpen[FileNameJoin[{$UserBaseDirectory,"SystemFiles","FrontEnd","Stylesheets"}]]
+        SystemOpen[FileNameJoin[{$UserBaseDirectory,"SystemFiles","FrontEnd","StyleSheets"}]]
 
 You may need to restart your application to see the changes take effect.
 
