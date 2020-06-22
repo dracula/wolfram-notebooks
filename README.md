@@ -10,7 +10,7 @@ All instructions can be found at [draculatheme.com/wolfram-notebooks](https://dr
 This theme is maintained by the following person(s) and a bunch of
 [awesome contributors](https://github.com/dracula/vim/graphs/contributors).
 
-[![Jesse Dohmann](https://avatars0.githubusercontent.com/u/14860856?s=400&u=e974640eaaa556e49b92895c4f4b6003a3c3eba0&v=4)](https://github.com/jldohmann) |
+[![Jesse Dohmann](https://avatars0.githubusercontent.com/u/14860856?v=3&s=70)](https://github.com/jldohmann) |
 --- |
 [Jesse Dohmann](https://github.com/jldohmann) |
 
