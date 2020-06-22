@@ -3,6 +3,7 @@
 #### Get the files
 
 If you are a git user, you can get the theme and keep up to date by cloning the repo:
+
         $ git clone https://github.com/dracula/wolfram-notebooks.git
         
 Otherwise, you will need to download the files and unzip them for each release.
