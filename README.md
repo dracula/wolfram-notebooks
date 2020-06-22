@@ -8,7 +8,7 @@ All instructions can be found at [draculatheme.com/wolfram-notebooks](https://dr
 
 ## Team
 This theme is maintained by the following person(s) and a bunch of
-[awesome contributors](https://github.com/dracula/vim/graphs/contributors).
+[awesome contributors](https://github.com/dracula/wolfram-notebooks/graphs/contributors).
 
 [![Jesse Dohmann](https://avatars0.githubusercontent.com/u/14860856?v=3&s=70)](https://github.com/jldohmann) |
 --- |
