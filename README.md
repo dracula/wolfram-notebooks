@@ -1,6 +1,8 @@
 # Dracula for [Wolfram Notebooks](https://www.wolfram.com/notebooks/)
 > A dark theme for [Wolfram Notebooks](https://www.wolfram.com/notebooks/)
 
+[![View notebooks](https://wolfr.am/HAAhzkRq)](https://wolfr.am/NwySAeCs)
+
 ![Screenshot](./screenshot.png)
 
 ## Install
