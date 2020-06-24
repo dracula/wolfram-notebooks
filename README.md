@@ -1,7 +1,7 @@
 # Dracula for [Wolfram Notebooks](https://www.wolfram.com/notebooks/)
 > A dark theme for [Wolfram Notebooks](https://www.wolfram.com/notebooks/)
 
- [![Made with](https://img.shields.io/static/v1?label=Made%20with&labelColor=black&message=Wolfram%20Language&color=d21c00&logo=wolfram-language&logoColor=white)](https://www.wolfram.com/language/)
+ [![Made with](https://img.shields.io/static/v1?label=Made%20with&labelColor=gray&message=Wolfram%20Language&color=d21c00&logo=wolfram-language&logoColor=white)](https://www.wolfram.com/language/)
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
  [![View notebooks](https://wolfr.am/HAAhzkRq)](https://wolfr.am/NwySAeCs)
 
